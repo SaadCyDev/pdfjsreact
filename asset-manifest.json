@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdfjsreact/static/css/main.baeea43c.css",
+    "main.js": "/pdfjsreact/static/js/main.48fab846.js",
+    "static/js/453.60797a14.chunk.js": "/pdfjsreact/static/js/453.60797a14.chunk.js",
+    "index.html": "/pdfjsreact/index.html",
+    "main.baeea43c.css.map": "/pdfjsreact/static/css/main.baeea43c.css.map",
+    "main.48fab846.js.map": "/pdfjsreact/static/js/main.48fab846.js.map",
+    "453.60797a14.chunk.js.map": "/pdfjsreact/static/js/453.60797a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baeea43c.css",
+    "static/js/main.48fab846.js"
+  ]
+}
